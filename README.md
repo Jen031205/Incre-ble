@@ -1,11 +1,11 @@
 # Incre-ble
 ## Nombre del personaje
-NUBE LUMNOSA
+NUBE LUMINOSA
 ## Creador
 Jennifer Ailin Medina Hernandez
 
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+Esta sera una lampara que producira movimiento mediante un servomotor y sonido (musica relajante).Todo esto se activara cuando exista movimiento cerca excepto la emision de luz. 
 
 ## Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
@@ -42,4 +42,6 @@ Deben ser de 1 a 2 enlaces de wokwi
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+
+--EXAMEN FINAL--
+<img src="https://github.com/user-attachments/assets/b18115f0-5e99-4b45-a674-9bc691e9cef9" width="500"/>
