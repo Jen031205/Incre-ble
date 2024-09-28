@@ -43,8 +43,8 @@ Enlace de simulacion de proyecto
 https://wokwi.com/projects/410241248571809793
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
-
+Video
+https://drive.google.com/drive/folders/1sBcQnCHQtoA0zC4Au7oC5Ru42H0cPxD4?usp=sharing
 ## Capturas de Evaluaciones de Curso de C
 --Queria sacar el dia de hoy las capturas de los demas examenes pero me aparecio lo siguiente, pero si realice todos mis examenes :(
 <img src="https://github.com/user-attachments/assets/24aeb35f-06ea-4471-8041-7d09886ee8fd" width="500"/>
