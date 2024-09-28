@@ -36,12 +36,17 @@ Esta sera una lampara que producira movimiento mediante un servomotor y sonido (
 <img src="https://github.com/user-attachments/assets/f0172f0d-6855-4e6c-9380-4a13d84b0dbb" width="500"/>
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+Actividad Integrando todo lo aprendido
+https://wokwi.com/projects/410239307250616321
+
+Enlace de simulacion de proyecto
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
+--Queria sacar el dia de hoy las capturas de los demas examenes pero me aparecio lo siguiente :(
+<img src="https://github.com/user-attachments/assets/24aeb35f-06ea-4471-8041-7d09886ee8fd" width="500"/>
 
 --EXAMEN FINAL--
 <img src="https://github.com/user-attachments/assets/b18115f0-5e99-4b45-a674-9bc691e9cef9" width="500"/>
